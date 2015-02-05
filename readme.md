@@ -1,4 +1,4 @@
-ofxofxCrossfadeShader
+ofxCrossfadeShader
 ======================
 
 how to use
